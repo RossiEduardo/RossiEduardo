@@ -6,7 +6,7 @@
 
 ### About Me
 
-👩‍💻 Currently, I work as Full Stack Developer Intern @Magroove
+👩‍💻 Currently, I work as Software Engineer Intern at a sportstech startup
 
 🔎 I am also curious about delving deeper into AWS and design patterns, and I am interested in entrepreneurship.
 
